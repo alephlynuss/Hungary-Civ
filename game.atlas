@@ -11,7 +11,7 @@ NationIcons/Hungary
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Black_army
+UnitIcons/Black army
   rotate: false
   xy: 100, 0
   size: 100, 100
