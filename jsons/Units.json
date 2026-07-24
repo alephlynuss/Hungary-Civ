@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength": 16,
 		"cost": 90,
-		"uniques": ["Can move after attacking"]
+		"uniques": ["Can move after attacking", "[+50]% Strength <vs [Mounted] units>"]
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
 		"attackSound": "metalhit"
