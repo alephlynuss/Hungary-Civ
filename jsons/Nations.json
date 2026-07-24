@@ -32,7 +32,7 @@
 		"outerColor": [201,109,177],
 		"innerColor": [235,235,235],
 		"uniqueName": "Kingdom of Mary, Patroness of Hungary",
-		"unique": ["All Road <for [-1] movement>"]
+		"unique": ["[All] units on All Road]
 		"cities": ["Budapest","Debrecen","Szeged","Miskolc","Pécs","Győr","Nyíregyháza","Kecskemét","Székesfehérvár",
 			"Szombathely","Baja","Békéscsaba","Dunaújváros","Eger","Érd","Esztergom","Hódmezővásárhely","Kaposvár","Nagykanizsa",
 			"Salgótarján","Sopron","Szekszárd","Szolnok","Tatabánya","Veszprém","Zalaegerszeg",]
