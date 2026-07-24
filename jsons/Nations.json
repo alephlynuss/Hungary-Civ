@@ -29,12 +29,11 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [235,235,235],
+		"innerColor": [201,109,177],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Budapest","Debrecen","Szeged","Miskolc","Pécs","Győr","Nyíregyháza","Kecskemét","Székesfehérvár",
+			"Szombathely","Baja","Békéscsaba","Dunaújváros","Eger","Érd","Esztergom","Hódmezővásárhely","Kaposvár","Nagykanizsa",
+			"Salgótarján","Sopron","Szekszárd","Szolnok","Tatabánya","Veszprém","Zalaegerszeg",]
 	}
 ]
