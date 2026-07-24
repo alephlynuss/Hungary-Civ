@@ -31,7 +31,8 @@
 
 		"outerColor": [201,109,177],
 		"innerColor": [235,235,235],
-		"unique": "Kingdom of Mary, Patroness of Hungary",
+		"uniqueName": "Kingdom of Mary, Patroness of Hungary",
+		"unique": ["Improves movement speed on roads"]
 		"cities": ["Budapest","Debrecen","Szeged","Miskolc","Pécs","Győr","Nyíregyháza","Kecskemét","Székesfehérvár",
 			"Szombathely","Baja","Békéscsaba","Dunaújváros","Eger","Érd","Esztergom","Hódmezővásárhely","Kaposvár","Nagykanizsa",
 			"Salgótarján","Sopron","Szekszárd","Szolnok","Tatabánya","Veszprém","Zalaegerszeg",]
