@@ -3,7 +3,7 @@
 		"name": "Hungary",
 		"leaderName": "Saint Stephen",
 		"adjective": ["hungary"],
-		"startBias": ["Plain"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "We come in peace!",
