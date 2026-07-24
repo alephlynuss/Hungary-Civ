@@ -7,7 +7,6 @@
 		"movement": 3,
 		"strength": 16,
 		"cost": 90,
-		"promotions": ["Logistics","Accuracy I"],
 		"uniques": ["Can move after attacking"]
 		"upgradesTo": "Lancer",
 		"obsoleteTech": "Metallurgy",
