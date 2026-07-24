@@ -1,17 +1,16 @@
 [
 	{
 		"name": "Black army",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"unitType": "Sword",
+		"uniqueTo": "Hungary",
+		"replaces": "Pikeman",
+		"movement": 3,
+		"strength": 16,
+		"cost": 90,
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"uniques": ["Can move after attacking"]
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
 	}
 ]
